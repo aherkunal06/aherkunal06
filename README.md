@@ -64,7 +64,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -93,15 +92,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/aherkunal06">
-    <img src="https://github-profile-trophy.vercel.app/?username=aherkunal06&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-  </a>
-</div>
-
----
 
 ## 🌟 Featured Projects
 
