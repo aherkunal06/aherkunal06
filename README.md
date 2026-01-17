@@ -74,13 +74,20 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aherkunal06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aherkunal06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff"/>
+<!-- Using github-readme-stats with proper cache busting -->
+<a href="https://github.com/aherkunal06">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aherkunal06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true"/>
+</a>
+<a href="https://github.com/aherkunal06">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aherkunal06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff"/>
+</a>
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=aherkunal06&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak"/>
+<!-- Streak Stats - using different instance -->
+<a href="https://github.com/aherkunal06">
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=aherkunal06&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -89,7 +96,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aherkunal06&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <a href="https://github.com/aherkunal06">
+    <img src="https://github-profile-trophy.vercel.app/?username=aherkunal06&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
